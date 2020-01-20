@@ -18,6 +18,9 @@ namespace kensan
             {
                 Console.WriteLine(weights[i]);
             }
+
+            // もっと簡単な記載もできるよ！そのうち試してみてください。
+            // Sample.ShowWeights();
         }
     }
 }
